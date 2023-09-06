@@ -3,7 +3,7 @@ import requests
 import csv
 
 base_url = 'https://deleuze.cla.purdue.edu/seminars/leibniz-and-baroque/lecture-'
-num_lectures = 5
+num_lectures = 5 
 
 # Open a CSV file for writing
 with open('paragraphs.csv', 'w', newline='', encoding='utf-8-sig') as csvfile:
