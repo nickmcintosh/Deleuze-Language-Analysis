@@ -1,1 +1,1 @@
-spacyvenv/** filter=lfs diff=lfs merge=lfs -text
+.leibniz_lecture_venv/** filter=lfs diff=lfs merge=lfs -text
