@@ -1,2 +1,3 @@
-spacyvenv/
+.leibniz_lecture_venv/
 .vscode/
+.idea/
